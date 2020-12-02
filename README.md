@@ -3,4 +3,4 @@ This is a script that compares an list of emails and corresponding company name 
 
 In this script I use Pandas, openyxl, and progress bar library.
 
-In folder Where script is ran, a folder (Excel_A) must exists including with both list in question for comparison. 
+In folder Where script is ran, a folder (Excel_A) must exists including with both email lists. 
